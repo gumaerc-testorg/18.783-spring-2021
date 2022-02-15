@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Notes and Worksheets
 uid: 34ce673e-528e-a9cc-e1fc-539d275a3d85
 ---

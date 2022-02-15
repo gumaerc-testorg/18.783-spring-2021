@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 71be6ed7-f9eb-2665-2815-bb0796215dd1
 title: Teaching 18.783 in Person
 uid: aaf16c37-94b2-7a9c-78c2-45428ea4924e
