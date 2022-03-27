@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Worksheets
 parent_type: CourseSection
+parent_uid: 34ce673e-528e-a9cc-e1fc-539d275a3d85
 resourcetype: Document
 title: '18.783 S2021 Lecture 4: Isogenies'
 uid: a594ab39-4477-ba96-f9e8-559635265ef1
