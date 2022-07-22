@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-783-elliptic-curves-spring-2021/445d5e100fba08d22bde67651d166937_survey_snapshot.png
+file: /courses/18-783-elliptic-curves-spring-2021/445d5e100fba08d22bde67651d166937_survey_snapshot.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching 18.783 in Person
 parent_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-783-elliptic-curves-spring-2021/59e0623c0d3454b39d8e07b493a0e9b0_MIT18_783S21_Slides5.pdf
+file: /courses/18-783-elliptic-curves-spring-2021/59e0623c0d3454b39d8e07b493a0e9b0_MIT18_783S21_Slides5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Worksheets
 parent_type: CourseSection
