@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 91475099-c882-8444-d472-44cf97408434
 ---
@@ -84,7 +87,7 @@ Lecture 11: Elliptic Curve Primality Proving (ECPP)
 ---------------------------------------------------
 
 *   \[Washington\] Section 7.2
-*   Goldwasser, Shafi, and Joe Kilian. "[Almost All Primes Can Be Quickly Certified](https://dl.acm.org/doi/abs/10.1145/12130.12162)." _STOC'86 Proceedings of the 18th Annual ACM Symposium on Theory of Computing_ (1986): 316–29.
+*   Goldwasser, Shafi, and Joe Kilian. "[Almost All Primes Can Be Quickly Certified](https://dl.acm.org/doi/abs/10.1145/12130.12162)." _STOC'86 Proceedings of the 18{{< sup "th" >}} Annual ACM Symposium on Theory of Computing_ (1986): 316–29.
 *   Pomerance, Carl. ["Very Short Primality Proofs." (PDF)](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866117-4/S0025-5718-1987-0866117-4.pdf) _Mathematics of Computation_ 48, no. 177 (1987): 315–22.
 
 Lecture 12: Endomorphism Algebras
