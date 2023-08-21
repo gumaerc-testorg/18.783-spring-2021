@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Dr. Sutherland shared his insights from teaching 18.783
+  in person.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ I first taught this course in Spring 2012. Because it was a brand-new course, I 
 
 What I decided to do is include a survey at the end of each problem set, and students were required to submit feedback as part of the assignment. Here is a sample survey:
 
-![Sample survey gauging student intetest, level of difficulty, and time spent on the problems in the first assignment.]({{< resource_file 445d5e10-0fba-08d2-2bde-67651d166937 >}})
+{{< resource 445d5e10-0fba-08d2-2bde-67651d166937 >}}
 
 ### Changes to Problem Sets and Lectures Based on Survey Results
 

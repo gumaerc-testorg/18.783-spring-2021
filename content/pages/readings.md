@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes reading references for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 91475099-c882-8444-d472-44cf97408434
 ---
 
-There is no required text, but [lecture notes]({{< baseurl >}}/pages/lecture-notes-and-worksheets) are provided. We make reference to material in the five books listed below. In addition, there are citations and links to other references.
+There is no required text, but {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} are provided. We make reference to material in the five books listed below. In addition, there are citations and links to other references.
 
 \[Washington\] = Washington, Lawrence C. _Elliptic Curves: Number Theory and Cryptography_. Chapman & Hall / CRC, 2008. ISBN: 9781420071467. ([Errata (PDF)](http://www.math.umd.edu/%7Elcw/ECerrata.pdf)) \[Preview with [Google Books](http://books.google.com/books?id=nBfCEqpYKW0C&pg=PAfrontcover)\]. [Online version](https://www.taylorfrancis.com/books/9780429140808).
 

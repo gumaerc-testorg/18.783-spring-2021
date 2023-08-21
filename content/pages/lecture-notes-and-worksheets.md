@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a full set of lecture notes, some lecture slides,
+  and some worksheets.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Worksheets
@@ -9,65 +11,65 @@ uid: 34ce673e-528e-a9cc-e1fc-539d275a3d85
 Lecture 1: Introduction to Elliptic Curves
 ------------------------------------------
 
-*   [Introduction to Elliptic Curves (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes1)
-*   [Introduction to Elliptic Curves (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides1)
+*   {{% resource_link 2c3cb31c-f916-afa0-24a0-902144c12b64 "Introduction to Elliptic Curves (notes) (PDF)" %}}
+*   {{% resource_link 8e48c8ba-9df0-597d-f419-f53a7a79f720 "Introduction to Elliptic Curves (slides) (PDF)" %}}
 
 Lecture 2: The Group Law and Weierstrass and Edwards Equations
 --------------------------------------------------------------
 
-*   [The Group Law and Weierstrass and Edwards Equations (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes2)
+*   {{% resource_link 597144da-afd0-5ed6-8ba5-145a505148cc "The Group Law and Weierstrass and Edwards Equations (notes) (PDF)" %}}
 *   [Proof of Associativity (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/a6a1c2b188bd61d94c3dd3bfd5aa73722e8bd38b)
 *   [Group Law on Edwards Curves (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/6431a9e6588e41bf035e04074b1d933b8c6d3dd0)
 
 Lecture 3: Finite Field Arithmetic
 ----------------------------------
 
-*   [Finite Field Arithmetic (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes3)
-*   [Finite Field Arithmetic (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides3)
+*   {{% resource_link b6d0aef7-1278-ad8c-1d8b-5144c4138cb7 "Finite Field Arithmetic (notes) (PDF)" %}}
+*   {{% resource_link 0426951d-5746-9c4b-4699-f47dd82b047b "Finite Field Arithmetic (slides) (PDF)" %}}
 *   [Root-Finding in Finite Fields (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/9bdcdbf44b269761e90bfdadadbad84c03bd8f34)
 *   [Root-Finding and Polynomial Factorization over Finite Fields (YouTube)](https://www.youtube.com/watch?v=HIiotVxxi8c&ab_channel=AndrewSutherland)
 
 Lecture 4: Isogenies
 --------------------
 
-*   [Isogenies (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes4)
-*   [Isogenies (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides4)
+*   {{% resource_link a594ab39-4477-ba96-f9e8-559635265ef1 "Isogenies (notes) (PDF)" %}}
+*   {{% resource_link 1e807a88-8ae4-f923-9ea1-e3106b2a9d76 "Isogenies (slides) (PDF)" %}}
 
 Lecture 5: Isogeny Kernels and Division Polynomials
 ---------------------------------------------------
 
-*   [Isogeny Kernels and Division Polynomials (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes5)
-*   [Isogeny Kernels and Division Polynomials (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides5)
+*   {{% resource_link 680a7686-aabd-24b2-2a15-eeb96e733838 "Isogeny Kernels and Division Polynomials (notes) (PDF)" %}}
+*   {{% resource_link 59e0623c-0d34-54b3-9d8e-07b493a0e9b0 "Isogeny Kernels and Division Polynomials (slides) (PDF)" %}}
 *   [Division Polynomials (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/e6d875928c03c09d1c7c42b08c487d8c18a89054)
 
 Lecture 6: Endomorphism Rings
 -----------------------------
 
-*   [Endomorphism Rings (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes6)
-*   [Endomorphism Rings (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides6)
+*   {{% resource_link 0299e2fe-f94d-866b-78e3-c3fcd036fb40 "Endomorphism Rings (notes) (PDF)" %}}
+*   {{% resource_link b63182eb-8b7a-cfec-3839-6f2eef5fbe23 "Endomorphism Rings (slides) (PDF)" %}}
 
 Lecture 7: Hasse's Theorem and Point Counting
 ---------------------------------------------
 
-*   [Hasse's Theorem and Point Counting (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes7)
-*   [Hasse's Theorem and Point Counting (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides7)
+*   {{% resource_link 5e4e3bd1-5c9a-81db-2ac1-86628da095bf "Hasse's Theorem and Point Counting (notes) (PDF)" %}}
+*   {{% resource_link ed003594-55ff-18f0-7559-eb644092cf4b "Hasse's Theorem and Point Counting (slides) (PDF)" %}}
 
 Lecture 8: Schoof's Algorithm
 -----------------------------
 
-*   [Schoof's Algorithm (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes8)
+*   {{% resource_link 22cad7fa-cecc-b28b-df00-2e3902c9ed49 "Schoof's Algorithm (notes) (PDF)" %}}
 *   [Schoof's Algorithm (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/600832aafc89f1098d5415b39eec4fbaa63ccab1)
 
 Lecture 9: Generic Algorithms for the Discrete Logarithm Problem
 ----------------------------------------------------------------
 
-*   [Generic Algorithms for the Discrete Logarithm Problem (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes9)
+*   {{% resource_link 97019b83-5708-dff9-cb26-f4dcd7d17ada "Generic Algorithms for the Discrete Logarithm Problem (notes) (PDF)" %}}
 
 Lecture 10: Index Calculus, Smooth Numbers, and Factoring Integers
 ------------------------------------------------------------------
 
-*   [Index Calculus, Smooth Numbers, and Factoring Integers (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes10)
-*   [Index Calculus, Smooth Numbers, and Factoring Integers (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides10)
+*   {{% resource_link fe6fc6be-9a87-8fb5-4550-576a3bdf7477 "Index Calculus, Smooth Numbers, and Factoring Integers (notes) (PDF)" %}}
+*   {{% resource_link d44797c1-410c-81e1-a724-5316bb700b35 "Index Calculus, Smooth Numbers, and Factoring Integers (slides) (PDF)" %}}
 *   [Index Calculus (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/222c89a54d1d6fce80f1ba7daa10ff2522af861e)
 *   [Montgomery Elliptic Curve Factorization Method (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/eb6864a672ce55b641f57b6ea6efdbe7596199a6)
 *   [Simple Implementation of Pollard p-1 Algorithm (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/ca3d2afaf7d5e747d3d292997f5b8f2fcc704c34)
@@ -75,76 +77,76 @@ Lecture 10: Index Calculus, Smooth Numbers, and Factoring Integers
 Lecture 11: Elliptic Curve Primality Proving (ECPP)
 ---------------------------------------------------
 
-*   [Elliptic Curve Primality Proving (ECPP) (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes11)
+*   {{% resource_link c95a8f33-3713-1b10-0deb-e6d7a2c04b6e "Elliptic Curve Primality Proving (ECPP) (notes) (PDF)" %}}
 
 Lecture 12: Endomorphism Algebras
 ---------------------------------
 
-*   [Endomorphism Algebras (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes12)
-*   [Endomorphism Algebras (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides12)
+*   {{% resource_link cd412ca1-ff8c-9189-0c82-7575dfc83eb6 "Endomorphism Algebras (notes) (PDF)" %}}
+*   {{% resource_link afe5cd2f-cb4a-c286-8c9c-21c91766e37f "Endomorphism Algebras (slides) (PDF)" %}}
 
 Lecture 13: Ordinary and Supersingular Curves
 ---------------------------------------------
 
-*   [Ordinary and Supersingular Curves (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes13)
+*   {{% resource_link 6b139f92-6bbb-e94d-b322-ea23300b0246 "Ordinary and Supersingular Curves (notes) (PDF)" %}}
 
 Lecture 14: Elliptic Curves over C (Part I)
 -------------------------------------------
 
-*   [Elliptic Curves over C (Part I) (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes14)
+*   {{% resource_link e001dc9e-9972-a603-d523-7c7cf879ba0c "Elliptic Curves over C (Part I) (notes) (PDF)" %}}
 
 Lecture 15: Elliptic Curves over C (Part II)
 --------------------------------------------
 
-*   [Elliptic Curves over C (Part II) (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes15)
+*   {{% resource_link f9bb81a5-b496-e093-746a-8dc51679f313 "Elliptic Curves over C (Part II) (notes) (PDF)" %}}
 
 Lecture 16: Complex Multiplication (CM)
 ---------------------------------------
 
-*   [Complex Multiplication (CM) (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes16)
+*   {{% resource_link 43c2b257-5e24-502d-6095-75648a8cb4a3 "Complex Multiplication (CM) (notes) (PDF)" %}}
 
 Lecture 17: The CM Torsor
 -------------------------
 
-*   [The CM Torsor (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes17)
+*   {{% resource_link 5fcff4d0-09b7-5161-913b-27bce2d67458 "The CM Torsor (notes) (PDF)" %}}
 
 Lecture 18: Riemann Surfaces and Modular Curves
 -----------------------------------------------
 
-*   [Riemann Surfaces and Modular Curves (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes18)
+*   {{% resource_link da987354-bbb5-f033-9640-938771a07f58 "Riemann Surfaces and Modular Curves (notes) (PDF)" %}}
 
 Lecture 19: The Modular Equation
 --------------------------------
 
-*   [The Modular Equation (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes19)
+*   {{% resource_link c1d042d0-a4e2-463b-eb02-71b52e00dd53 "The Modular Equation (notes) (PDF)" %}}
 
 Lecture 20: The Hilbert Class Polynomial
 ----------------------------------------
 
-*   [The Hilbert Class Polynomial (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes20)
+*   {{% resource_link 771db89d-5478-2bdf-ab8a-e93c2315931e "The Hilbert Class Polynomial (notes) (PDF)" %}}
 
 Lecture 21: Ring Class Fields and the CM Method
 -----------------------------------------------
 
-*   [Ring Class Fields and the CM Method (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes21)
+*   {{% resource_link 09860557-52ec-f04d-c7cf-c16f30ade1c8 "Ring Class Fields and the CM Method (notes) (PDF)" %}}
 
 Lecture 22: Isogeny Volcanoes
 -----------------------------
 
-*   [Isogeny Volcanoes (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes22)
+*   {{% resource_link 4aa4373e-19e2-3a48-0773-33b54f7c8a89 "Isogeny Volcanoes (notes) (PDF)" %}}
 
 Lecture 23: The Weil Pairing
 ----------------------------
 
-*   [The Weil Pairing (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes23)
+*   {{% resource_link 94cf817b-ccec-e2b5-2ba1-43a8164a3a7c "The Weil Pairing (notes) (PDF)" %}}
 
 Lecture 24: Modular Forms and L-Functions
 -----------------------------------------
 
-*   [Modular Forms and L-Functions (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes24)
-*   [Modular Forms and L-Functions (slides) (PDF)]({{< baseurl >}}/resources/mit18_783s21_slides24)
+*   {{% resource_link e5bb504d-f830-7e21-1aa2-07c016e97025 "Modular Forms and L-Functions (notes) (PDF)" %}}
+*   {{% resource_link 17d69338-9d2a-d0a5-e062-7da111a08428 "Modular Forms and L-Functions (slides) (PDF)" %}}
 
 Lecture 25: Fermat's Last Theorem
 ---------------------------------
 
-*   [Fermat's Last Theorem (notes) (PDF)]({{< baseurl >}}/resources/mit18_783s21_notes25)
+*   {{% resource_link 89b2e890-c00b-9a5d-7abb-1a6f80c053e5 "Fermat's Last Theorem (notes) (PDF)" %}}
