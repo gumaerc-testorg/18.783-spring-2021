@@ -1,18 +1,19 @@
 ---
 content_type: page
+description: In this section, Dr. Andrew Sutherland describes various aspects of how
+  he converted 18.783 Elliptic Curves to an online course during the COVID-19 pandemic.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 71be6ed7-f9eb-2665-2815-bb0796215dd1
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Dr. Andrew Sutherland describes various aspects of how he converted _18.783 Elliptic Curves_ to an online course during the COVID-19 pandemic.
 
-Note: Dr. Sutherland has also provided [insights on teaching 18.783 in person in 2019]({{< baseurl >}}/pages/instructor-insights/teaching-18.783-in-person).
+Note: Dr. Sutherland has also provided {{% resource_link aaf16c37-94b2-7a9c-78c2-45428ea4924e "insights on teaching 18.783 in person in 2019" %}}.
 
 **OCW:** What was your overall approach to redesigning the course for online teaching during the COVID-19 pandemic?
 
@@ -40,7 +41,7 @@ Note: Dr. Sutherland has also provided [insights on teaching 18.783 in person in
 
 If an educator wanted to run their own CoCalc server they could. I find it more convenient to use the online hosting provided at [https://cocalc.com/](https://cocalc.com/), which saves me the hassle of managing my own server and ensures that the notebooks that are part of the course materials will stay available for anyone to use free of charge indefinitely. If I were running my own server, at some point I would tire of maintaining it!
 
-The argument for using CoCalc is that you are making your content permanently available to the public in an easy-to-find place. Furthermore, the notebooks on CoCalc can be run in the context they were created, using the same version of Jupyter, Sage, etc., so that their computations should be completely reproducible. This is not necessarily true of software posted on other platforms, since you might be compiling and running it in an environment that is different (OS version, library versions, etc...).
+The argument for using CoCalc is that you are making your content permanently available to the public in an easy-to-find place. Furthermore, the notebooks on CoCalc can be run in the context they were created, using the same version of Jupyter, Sage, etc., so that their computations should be completely reproducible. This is not necessarily true of software posted on other platforms, since you might be compiling and running it in an environment that is different (OS version, library versions, etc…).
 
 **OCW:** What advice do you have for other educators faced with the challenge of adapting their graduate-level math classes to an entirely online setting?
 
@@ -52,12 +53,11 @@ The argument for using CoCalc is that you are making your content permanently av
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-A course in algebra covering groups, rings, and fields (including Galois theory) at the level of [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/) or [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/).
+A course in algebra covering groups, rings, and fields (including Galois theory) at the level of [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010) or [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011).
 
 ### Requirements Satisfied
 
@@ -67,17 +67,17 @@ A course in algebra covering groups, rings, and fields (including Galois theory)
 
 Until this iteration of 18.783, the course was offered every other spring semester; due to increasing enrollment it is now offered every spring.
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The grade was derived by averaging the student’s ten highest grades from among the twelve problem sets, with additional credit points given for participation in Zoom polls held in class.
 
-Student Information
--------------------
+## Student Information
 
-![28 students took this course when it was taught in spring 2021.]({{< resource_file 6e010cb5-ffd3-560c-3a59-434137138d54 >}})
+### Enrollment
+
+28 students
 
 ### Breakdown by Year
 
@@ -87,19 +87,16 @@ About 3/4 advanced undergraduates, 1/4 graduate students.
 
 About 2/3 pure mathematics, 1/3 applied mathematics.
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
-*   Several of the lectures included interactive sessions using [Sage](http://sagemath.org/). The Sage worksheets are listed in the [lecture notes]({{< baseurl >}}/pages/lecture-notes-and-worksheets) section.
+- Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
+- Several of the lectures included interactive sessions using [Sage](http://sagemath.org/). The Sage worksheets are listed in the {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} section.
 
-Out of Class
-------------
+### Out of Class
 
-*   There was no required textbook, but [references to several books and articles]({{< baseurl >}}/pages/readings) were provided for each class session.
-*   The [problem sets]({{< baseurl >}}/pages/assignments) included both theoretical questions and practical examples that required the students to implement algorithms in Sage.
+- There was no required textbook, but {{% resource_link 91475099-c882-8444-d472-44cf97408434 "references to several books and articles" %}} were provided for each class session.
+- The {{% resource_link 92e66250-c97c-4578-f088-9c985f26e74a "problem sets" %}} included both theoretical questions and practical examples that required the students to implement algorithms in Sage.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes information about the course topics, readings,
+  software, assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -53,7 +55,7 @@ Each of the topics listed below corresponds to roughly one week of lectures (a t
 Textbook and Notes
 ------------------
 
-There is no required text; [lecture notes]({{< baseurl >}}/pages/lecture-notes-and-worksheets) will be provided. We will make reference to material in the following books.
+There is no required text; {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} will be provided. We will make reference to material in the following books.
 
 Washington, Lawrence C. _Elliptic Curves: Number Theory and Cryptography_. Second edition. Chapman & Hall / CRC, 2008. ISBN: 9781420071467. ([Errata (PDF)](http://www.math.umd.edu/%7Elcw/ECerrata.pdf)) \[Preview with [Google Books](http://books.google.com/books?id=nBfCEqpYKW0C&pg=PAfrontcover)\]. [Online version](https://www.taylorfrancis.com/books/9780429140808).
 
