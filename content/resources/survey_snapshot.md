@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-783-elliptic-curves-spring-2021/445d5e100fba08d22bde67651d166937_survey_snapshot.png
+file: /ol-ocw-studio-app/courses/18-783-elliptic-curves-spring-2021/445d5e100fba08d22bde67651d166937_survey_snapshot.png
 file_size: 37003
 file_type: image/png
 image_metadata:
