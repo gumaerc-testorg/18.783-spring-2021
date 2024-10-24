@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-783-elliptic-curves-spring-2021/b6d0aef71278ad8c1d8b5144c4138cb7_MIT18_783S21_notes3.pdf
+file: /ol-ocw-studio-app/courses/18-783-elliptic-curves-spring-2021/b6d0aef71278ad8c1d8b5144c4138cb7_MIT18_783S21_notes3.pdf
 file_size: 612010
 file_type: application/pdf
 learning_resource_types: []
